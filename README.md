@@ -26,3 +26,4 @@
 2. The functionality allows viewing, searching by key data, adding, editing and deleting information.
    The unique position '**id**' is generated automatically via auto increment.
    The result of the operation is displayed in the terminal.
+   ![Demo](https://user-images.githubusercontent.com/36072345/202992858-866d6c18-93ee-43c6-942d-f8435ace7fd2.JPG)
